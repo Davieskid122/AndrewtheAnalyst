@@ -34,6 +34,15 @@ const PROJECTS = [
     finding: "Live regime classification with historical stress-testing against 1994, 2000, 2008, 2020, and 2022, so the thesis can be validated before capital is deployed.",
     metrics: ["4 live FRED feeds", "11 sector ETFs", "10-year historical range"],
   },
+
+  {
+    num: "05", tag: "Investment Intelligence", accent: "#e8935a",
+    title: "No-Show Risk Intelligence Tag: Healthcare · Predictive Analytics",
+    link: "https://appointment-risk-intelligence.andrewtheanalyst.org",
+    desc: " A booked slot that goes empty isn’t a scheduling problem. The patient didn’t show, and nobody called. This dashboard scores every patient on the morning list by no-show probability. Filter to High Risk: 4 to 8 names on a typical day. Call those. The rest of the list doesn’t need you.",
+    finding: "Lead time between booking and appointment tops the feature importance chart every single time. Not age. Not SMS reminders. The gap between when someone booked and when they’re due in",
+    metrics: [" 110,527 patient records · 73% AUC-ROC · 1 in 5 historically never showed"],
+  },
 ];
 
 export default function Home() {
@@ -658,7 +667,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="text-[10px] tracking-[0.2em] uppercase text-white/25 font-light mb-0.5">Upwork</p>
-                  <a href="https://www.upwork.com/freelancers/andrewtheanalyst" target="_blank" rel="noopener noreferrer" className="text-white/60 hover:text-white transition-colors text-sm font-light">upwork.com/freelancers/andrewtheanalyst</a>
+                  <a href="https://www.upwork.com/freelancers/~017947a786a60508cd?mp_source=share" target="_blank" rel="noopener noreferrer" className="text-white/60 hover:text-white transition-colors text-sm font-light">upwork.com/freelancers/andrewtheanalyst</a>
                 </div>
               </div>
 
