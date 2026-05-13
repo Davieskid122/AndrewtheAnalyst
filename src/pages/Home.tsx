@@ -39,7 +39,8 @@ const PROJECTS = [
     num: "05", tag: "Healthcare · Predictive Analytics", accent: "#c9a97a",
     title: "No-Show Risk Intelligence",
     link: "https://appointment-risk-intelligence.andrewtheanalyst.org",
-    desc: " A booked slot that goes empty isn’t a scheduling problem. The patient didn’t show, and nobody called. This dashboard scores every patient on the morning list by no-show probability.Filter to High Risk: 4 to 8 names on a typical day. Call those. The rest of the list doesn’t need you.",   finding: "Lead time between booking and appointment tops the feature importance chart every single time. Not age. Not SMS reminders. The gap between when someone booked and when they’re due in.",
+    desc: " A booked slot that goes empty isn’t a scheduling problem. The patient didn’t show, and nobody called. This dashboard scores every patient on the morning list by no-show probability.                                             Filter to High Risk: 4 to 8 names on a typical day. Call those. The rest of the list doesn’t need you.",  
+     finding: "Lead time between booking and appointment tops the feature importance chart every single time. Not age. Not SMS reminders. The gap between when someone booked and when they’re due in.",
     metrics: ["110,527 patient records", "73% AUC-ROC", "1 in 5 historically never showed"],
   },
 ];
