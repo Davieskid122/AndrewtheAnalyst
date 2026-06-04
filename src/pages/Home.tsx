@@ -43,6 +43,15 @@ const PROJECTS = [
      finding: "Lead time between booking and appointment tops the feature importance chart every single time. Not age. Not SMS reminders. The gap between when someone booked and when they’re due in.",
     metrics: ["110,527 patient records", "73% AUC-ROC", "1 in 5 historically never showed"],
   },
+
+  {
+    num: "06", tag: "Quantitative Finance · Market Microstructure", accent: "#c9a97a",
+    title: "Stock Volume Driver Dashboard",
+    link: "https://stock.andrewtheanalyst.org",
+    desc: " Daily trading data for AMZN, INTC, NVDA, PLUG, and TSLA across 3 years, statistically isolating what actually drives volume per ticker so traders and risk managers can anticipate liquidity before they need it.",  
+     finding: "Big price moves bring 1.5 to 2.4× more volume depending on the ticker, while price level has no reliable relationship with volume, making it a misleading liquidity signal that this dashboard directly corrects.",
+    metrics: ["3,605 trading day rows · 5 tickers · 8 analytical panels"],
+  },
 ];
 
 export default function Home() {
