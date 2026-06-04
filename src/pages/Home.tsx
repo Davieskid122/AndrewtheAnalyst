@@ -50,7 +50,7 @@ const PROJECTS = [
     link: "https://stock.andrewtheanalyst.org",
     desc: " Daily trading data for AMZN, INTC, NVDA, PLUG, and TSLA across 3 years, statistically isolating what actually drives volume per ticker so traders and risk managers can anticipate liquidity before they need it.",  
      finding: "Big price moves bring 1.5 to 2.4× more volume depending on the ticker, while price level has no reliable relationship with volume, making it a misleading liquidity signal that this dashboard directly corrects.",
-    metrics: ["3,605 trading day rows · 5 tickers · 8 analytical panels"],
+    metrics: ["3,605 trading day rows" , "5 tickers" , "8 analytical panels"],
   },
 ];
 
