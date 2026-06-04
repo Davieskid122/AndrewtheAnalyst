@@ -191,7 +191,7 @@ export default function Home() {
           <img
             src="/images/eri5.jpg"
             alt="Eri"
-            className="h-[70%] w-[80%] md:w-[45%] object-cover object-center brightness-[0.85]"
+            className="h-[70%] w-[80%] md:w-[45%] object-cover object-top brightness-[0.85]"
           />
         </div>
 
