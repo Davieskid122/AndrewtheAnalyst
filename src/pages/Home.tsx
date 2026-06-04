@@ -279,6 +279,7 @@ export default function Home() {
               >
                 <p className="font-serif text-lg text-white/80 leading-snug">Andrew Eriiyanuoluwa</p>
                 <p className="text-xs text-white/30 font-light tracking-widest uppercase mt-1">andrewtheanalyst</p>
+                <p className="text-xs text-white/40 font-light tracking-widest uppercase mt-2">Co-Founder & Director · Ọjáa Nigeria Limited</p>
               </motion.div>
             </div>
             <div className="md:col-span-8 space-y-8">
